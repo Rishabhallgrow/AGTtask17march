@@ -3,7 +3,7 @@ report 70148 "AGTTAsk12march"
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
     DefaultLayout = RDLC;
-    RDLCLayout = './salesOrderReport12marchtask2.rdl';
+    RDLCLayout = './salesOrderReport17marchtask2.rdl';
     Caption = 'salesorder_RP2';
 
     dataset

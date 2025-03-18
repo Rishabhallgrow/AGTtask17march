@@ -42,7 +42,8 @@ report 70148 "AGTTAsk12march"
 
             dataitem("Sales Line"; "Sales Line")
             {
-                DataItemLink = "Sell-to Customer No." = field("Sell-to Customer No.");
+                DataItemLink = "Document Type" = field("Document Type"),
+                   "Document No." = field("No.");
 
                 column(Item_No; "No.") { }
                 column(Total_Quantity; Quantity) { }
